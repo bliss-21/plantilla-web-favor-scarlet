@@ -1,0 +1,70 @@
+
+
+/************** By Elias ****************/
+
+body {
+    background: url("../img/mosaico.png") ;
+    background-color: rgb(61, 190, 147); /*Aqui cambias el color del fondo*/
+  }
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: white;
+}
+
+.tarjeta {
+    background-color: white;
+}
+
+.border {
+    border-radius: 18px;
+}
+
+.transparent {
+    background-color: rgba(255,255,255,0.7);
+  }
+
+.img_person_1 {
+    background-image: url("../img/img_person_1.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 400px;
+}
+
+.img_person_2 {
+    background-image: url("../img/img_person_2.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 400px;
+}
+
+.img_slider_1 {
+    background-image: url("../img/slider_1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+}
+
+.img_slider_2 {
+    background-image: url("../img/slider_2.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+}
+
+.img_slider_3 {
+    background-image: url("../img/img_person_1.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+}
